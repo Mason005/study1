@@ -1,0 +1,11 @@
+D:\Mason\Education\WinForm\Login_Info\Login_Info\bin\Debug\Login_Info.exe.config
+D:\Mason\Education\WinForm\Login_Info\Login_Info\bin\Debug\Login_Info.exe
+D:\Mason\Education\WinForm\Login_Info\Login_Info\bin\Debug\Login_Info.pdb
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.csproj.AssemblyReference.cache
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.Form1.resources
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.Properties.Resources.resources
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.csproj.GenerateResource.cache
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.csproj.CoreCompileInputs.cache
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.exe
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.pdb
+D:\Mason\Education\WinForm\Login_Info\Login_Info\obj\Debug\Login_Info.MainForm.resources
